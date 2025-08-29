@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Munaza Munir  
 
-<!--
-**webdevmunaza-ship-it/webdevmunaza-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 A passionate **Software Engineer Student** and **Frontend Developer in progress**.  
+I love learning new technologies and building projects to showcase my growth. 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools  
+- **Languages:** HTML, CSS, JavaScript  
+- **Frameworks/Libraries:** React.js (Learning & Building Projects)  
+- **Styling:** Tailwind CSS  
+- **Build Tools:** Vite  
+
+---
+
+## 📌 Projects  
+
+### 🔑 [Password Generator](https://github.com/webdevmunaza-ship-it/Password-Generator)  
+A simple **React app** with Tailwind CSS to generate strong and secure passwords.  
+
+### 📖 [Dictionary App](https://github.com/webdevmunaza-ship-it/Dictionary-App)  
+A **dictionary app** with voice support, meanings, and antonyms.  
+
+---
+
+## 📈 GitHub Stats  
+
+![Munaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=webdevmunaza-ship-it&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevmunaza-ship-it&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Contact Me  
+📧 Email: **webdevmunaza@gmail.com**  
+
+✨ _Learning, Building, and Growing one project at a time!_
